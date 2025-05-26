@@ -1,1 +1,1 @@
-# Multi-Crop-Multi-Disease-Detection-System
+# Plant_Disease_Detector
